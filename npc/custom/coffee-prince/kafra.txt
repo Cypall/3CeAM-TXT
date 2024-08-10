@@ -1,0 +1,354 @@
+morocc,280,212,3	script	Kafra Express#1	894,{
+	callfunc "S_Kafra","morocc",289,203;
+}
+morocc,159,263,3	script	Kafra Express#2	894,{
+	callfunc "S_Kafra","morocc",158,255;
+}
+morocc,170,51,3	script	Kafra Express#3	894,{
+	callfunc "S_Kafra","morocc",159,44;
+}
+alberta,113,60,6	script	Kafra Express#6	894,{
+	callfunc "S_Kafra","alberta",117,57;
+}
+aldebaran,145,114,3	script	Kafra Express#7	894,{
+	callfunc "S_Kafra","aldebaran",143,109;
+}
+amatsu,230,231,3	script	Kafra Express#8	894,{
+	callfunc "S_Kafra","amatsu",111,91;
+}
+ayothaya,212,171,5	script	Kafra Express#9	894,{
+	callfunc "S_Kafra","ayothaya",218,173;
+}
+comodo,194,152,3	script	Kafra Express#10	894,{
+	callfunc "S_Kafra","comodo",189,153;
+}
+einbech,181,125,3	script	Kafra Express#11	894,{
+	callfunc "S_Kafra","einbech",174,129;
+}
+einbroch,242,205,3	script	Kafra Express#12	894,{
+	callfunc "S_Kafra","einbroch",232,202;
+}
+geffen,124,66,3	script	Kafra Express#13	894,{
+	callfunc "S_Kafra","geffen",120,63;
+}
+gonryun,162,122,3	script	Kafra Express#14	894,{
+	callfunc "S_Kafra","gonryun",159,118;
+}
+hugel,101,153,3	script	Kafra Express#15	894,{
+	callfunc "S_Kafra","hugel",96,156;
+}
+izlude,134,87,3	script	Kafra Express#16	894,{
+	callfunc "S_Kafra","izlude",128,90;
+}
+jawaii,125,269,3	script	Kafra Express#17	894,{
+	callfunc "S_Kafra","jawaii",129,265;
+}
+lighthalzen,164,100,4	script	Kafra Express#18	894,{
+	callfunc "S_Kafra","lighthalzen",159,97;
+}
+louyang,210,104,5	script	Kafra Express#19	894,{
+	callfunc "S_Kafra","louyang",218,102;
+}
+xmas,152,136,3	script	Kafra Express#20	894,{
+	callfunc "S_Kafra","xmas",148,132;
+}
+morocc,159,97,3	script	Kafra Express#21	894,{
+	callfunc "S_Kafra","morocc",158,91;
+}
+payon,179,103,3	script	Kafra Express#22	894,{
+	callfunc "S_Kafra","payon",182,99;
+}
+prontera,159,192,3	script	Kafra Express#23	894,{
+	callfunc "S_Kafra","prontera",156,188;
+}
+rachel,129,144,5	script	Kafra Express#24	894,{
+	callfunc "S_Kafra","rachel",132,140;
+}
+umbala,126,134,3	script	Kafra Express#25	894,{
+	callfunc "S_Kafra","umbala",125,128;
+}
+veins,210,128,3	script	Kafra Express#26	894,{
+	callfunc "S_Kafra","veins",207,124;
+}
+yuno,152,187,5	script	Kafra Express#27	894,{
+	callfunc "S_Kafra","yuno",158,182;
+}
+moscovia,218,196,5	script	Kafra Express#28	894,{
+	callfunc "S_Kafra","moscovia",224,196;
+}
+brasilis,114,73,3	script	Kafra Express#29	894,{
+	callfunc "S_Kafra","brasilis",121,68;
+}
+morocc,34,176,3	script	Kafra Express#30	894,{
+	callfunc "S_Kafra","morocc",39,168;
+}
+hu_in01,247,306,3	script	Kafra Express#31	894,{
+	callfunc "S_Kafra","hu_in01",239,314;
+}
+
+function	script	S_Kafra	{
+	cutin "kh_ellisia",2;
+	mes "[ Kafra Express ]";
+	mes " ยินดีต้อนรับสู่บริษัท Kafra";
+	mes " เราจะอยู่กับท่านทุกที่ที่ท่านไปถึง";
+	mes " มีอะไรที่เราช่วยท่านได้บ้าง?";
+	next;
+	menu	"- เซฟ",K_save,
+		"- เก็บของ",K_storage,
+		"- เช่ารถเข็น ^9999991,000 เซนี^000000",K_cart,
+		"- เช่าเหยี่ยว ^9999993,000 เซนี^000000",K_falcon,
+		"- เช่าเป็ด,มังกร,กริฟฟอน ^9999995,000 เซนี^000000",K_peco,
+		"- เช่าหุ่นยนต์ ^99999910,000 เซนี^000000",K_mado,
+		"- ยกเลิก",K_cancle;
+
+K_save:
+	mes "[ Kafra Express ]";
+	mes " ท่านได้ทำการเซฟเรียบร้อยแล้ว";
+	mes " ขอบคุณที่ใช้บริการ Kafra Express";
+	savepoint getarg(0),getarg(1),getarg(2);
+	close2;
+	emotion e_thx;
+	cutin "", 255;
+	end;
+
+K_save1:
+	callfunc "repairmain1"," Repairman ";
+	end;
+	
+K_storage:
+	if (Zeny < 150) {
+		mes "[ Kafra Express ]";
+		mes " ท่านมีเงินไม่พอ";
+		close2;
+		cutin "", 255;
+		end;
+	}
+	set Zeny,Zeny-150;
+	mes "[ Kafra Express ]";
+	mes " เราจะเปิดที่เก็บของให้ท่าน";
+	mes " ขอบคุณที่ใช้บริการ Kafra Express";
+	close2;
+	openstorage;
+	emotion e_thx;
+	cutin "", 255;
+	end;
+
+K_cart:
+	mes "[ Kafra Express ]";
+	if (getskilllv(39)==0) {
+		mes " ท่านจะต้องมีทักษะ 'Pushcart' เสียก่อน"; 
+		close2;
+		cutin "", 255;
+		end;
+	} else if (checkcart()) { 
+		mes " รถเข็นถูกติดตั้งอยู่แล้ว";
+		close2;
+		cutin "", 255;
+		end;
+	} else if (Zeny < 1000) { 
+		mes " ท่านมีเงินไม่พอ";
+		close2;
+		cutin "", 255;
+		end;
+	} else {
+		mes " ค่าเช่ารถเข็น 1,000 เซนี";
+		mes " ท่านต้องการเช่าหรือไม่";
+		next;
+		menu "- เช่ารถเข็น",-,"- ยกเลิก",K_cancle;
+		setcart;
+		emotion e_ok;
+		set Zeny,Zeny-1000;
+		mes "[ Kafra Express ]";
+		mes " ติดตั้งรถเข็นเรียบร้อยแล้ว";
+		mes " ขอบคุณที่ใช้บริการ Kafra Express";
+		close2;
+		emotion e_thx;
+		cutin "", 255;
+		end;
+	}
+
+K_falcon:
+	mes "[ Kafra Express ]";
+	if (getskilllv(127)==0) {
+		mes " ท่านจะต้องมีทักษะ 'Falcon Training' เสียก่อน"; 
+		close2;
+		cutin "", 255;
+		end;
+	} else if (checkfalcon()) {
+		mes " ท่านมีเหยี่ยวอยู่แล้ว";
+		close2;
+		cutin "", 255;
+		end;
+	} else if (Zeny < 3000) {
+		mes " ท่านมีเงินไม่พอ";
+		close2;
+		cutin "", 255;
+		end;
+	} else {
+		mes " ค่าเช่าเหยี่ยว 3,000 เซนี";
+		mes " ท่านต้องการเช่าหรือไม่";
+		next;
+		menu "- เช่าเหยี่ยว",-,"- ยกเลิก",K_cancle;
+		setfalcon;
+		emotion e_ok;
+		set Zeny,Zeny-3000;
+		mes "[ Kafra Express ]";
+		mes " เหยี่ยวตัวนี้เป็นของท่านแล้ว";
+		mes " ขอบคุณที่ใช้บริการ Kafra Express";
+		close2;
+		emotion e_thx;
+		cutin "", 255;
+		end;
+	}
+
+K_peco:
+	mes "[ Kafra Express ]";
+	if (getskilllv(63)==0) {
+		mes " ท่านจะต้องมีทักษะ 'PecoPeco Riding' เสียก่อน";
+		close2;
+		cutin "", 255;
+		end;
+	} else if (checkriding()) { 
+		mes " ท่านขี่นกยักษ์อยู่แล้ว";
+		close2;
+		cutin "", 255;
+		end;
+	} else if (Zeny < 5000) { 
+		mes " ท่านมีเงินไม่พอ";
+		close2;
+		cutin "", 255;
+		end;
+	} else {
+		mes " ค่าเช่านกยักษ์ 5,000 เซนี";
+		mes " ท่านต้องการเช่าหรือไม่";
+		next;
+		menu "- เช่านกยักษ์",-,"- ยกเลิก",K_cancle;
+		setriding;
+		emotion e_ok;
+		set Zeny,Zeny-5000;
+		mes "[ Kafra Express ]";
+		mes " นกยักษ์ตัวนี้เป็นของท่านแล้ว";
+		mes " ขอบคุณที่ใช้บริการ Kafra Express";
+		close2;
+		emotion e_thx;
+		cutin "", 255;
+		end;
+	}
+
+K_mado:
+	mes "[ Kafra Express ]";
+	if (getskilllv(2255)==0) {
+		mes " ท่านจะต้องมีทักษะ 'Mado License' เสียก่อน";
+		close2;
+		cutin "", 255;
+		end;
+	} else if (checkriding()) { 
+		mes " ท่านมีหุ่นยนต์อยู่แล้ว";
+		close2;
+		cutin "", 255;
+		end;
+	} else if (Zeny < 10000) { 
+		mes " ท่านมีเงินไม่พอ";
+		close2;
+		cutin "", 255;
+		end;
+	} else {
+		mes " ค่าเช่าหุ่นยนต์ 10,000 เซนี";
+		mes " ท่านต้องการเช่าหรือไม่";
+		next;
+		menu "- เช่าหุ่นยนต์",-,"- ยกเลิก",K_cancle;
+		setriding;
+		emotion e_ok;
+		set Zeny,Zeny-10000;
+		mes "[ Kafra Express ]";
+		mes " หุ่นยนต์นี้เป็นของท่านแล้ว";
+		mes " ขอบคุณที่ใช้บริการ Kafra Express";
+		close2;
+		emotion e_thx;
+		cutin "", 255;
+		end;
+	}
+
+K_cancle:
+	mes "[ Kafra Express ]";
+	mes " ทีมงาน Kafra พร้อมมอบ";
+	mes " บริการที่ดีที่สุดแด่ท่านเสมอ";
+	mes " โอกาสหน้าเชิญใหม่ค่ะ";
+	close2;
+	cutin "", 255;
+	end;
+}
+
+function	script	repairmain1	{
+	set .@repairprice,5000;
+	mes "["+getarg(0)+"]";
+	mes "ข้าคือช่างซ่อมอาวุธ นำอาวุธที่เสียหายมาให้ข้าซ่อมได้";
+	mes "จะซ่อมอันใหนบอกมา ซ่อมได้ จะซ่อมให้";
+	next;
+	switch(select("ข้าต้องการซ่อม...:ข้ายังไม่ต้องการซ่อมในตอนนี้!!")) {
+	case 1:
+		set .@checkitem,1;
+		while (1) {
+			if (getbrokenid(.@checkitem) == 0) {
+				break;
+			}
+			set .@checkitem,.@checkitem+1;
+		}
+		set .@checkitem,.@checkitem-1;
+		if (!.@checkitem) {
+			mes "["+getarg(0)+"]";
+			mes "ดูเหมือนท่านจะไม่มีอุปกรณ์อะไรที่เสียหายเลยนะ!";
+			close;
+		}
+		mes "["+getarg(0)+"]";
+		mes "อืม...";
+		mes "ดูเหมือนว่า...";
+		mes "ท่านจะมีอุปกณ์ " + .@checkitem + " ชิ้น ที่เสียหายอยู่";
+		mes "หากท่านต้องการที่จะซ่อมทั้งหมด~";
+		next;
+		set .@totalcost,.@repairprice*.@checkitem;
+		mes "["+getarg(0)+"]";
+		mes "ข้าคิดราคาเพียง 5000 เซนี ต่อชิ้นเท่านั้น รวมราคาทั้งหมด " + .@totalcost + " เซนี! ท่านต้องการที่จะซ่อมทั้งหมดเลยมั๊ย?";
+		next;
+		switch(select("ตกลง:ยกเลิก")) {
+		case 1:
+			if (Zeny < .@totalcost) {
+				mes "["+getarg(0)+"]";
+				mes "ว้า...";
+				mes "ข้าคิดว่าท่านควรจะตรวจสอบเงินของท่านเสียก่อนนะ!!!!";
+				close;
+			}
+			set .@checkitem2,1;
+			while (1) {
+				if (getbrokenid(.@checkitem2) == 0) {
+					break;
+				}
+				set .@checkitem2,.@checkitem2+1;
+			}
+			set .@checkitem2,.@checkitem2-1;
+			if (.@checkitem == .@checkitem2) {
+				set zeny,zeny-.@totalcost;
+				while (.@checkitem) {
+					repair(.@checkitem);
+					set .@checkitem,.@checkitem-1;
+				}
+				mes "["+getarg(0)+"]";
+				mes "อ่า.. เรียบร้อยแล้ว คราวหน้าคราวหลังท่านก็ทำอะไรระวังๆหน่อย ข้าช่วยท่านไม่ได้ทุกครั้งหลอกนะ";
+				close;
+			}
+			else {
+				mes "["+getarg(0)+"]";
+				mes "Mmm? Something's wrong. Wait... Equip the items you need to repair and then come back to me.";
+				close;
+			}
+		case 2:
+			mes "["+getarg(0)+"]";
+			mes "มาหาข้าได้..เมื่อเจ้าต้องการ";
+			close;
+		}
+	case 2:
+		mes "["+getarg(0)+"]";
+		mes "มาหาข้าได้..เมื่อเจ้าต้องการ";
+		close;
+	}
+}

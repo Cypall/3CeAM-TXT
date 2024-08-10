@@ -1,0 +1,403 @@
+//==================================================
+// Endless - Mine 1@tower F1
+//==================================================
+1@tower,0,0,0,0	monster	poring	1002,5,0,0,0
+1@tower,0,0,0,0	monster	Hornet	1004,25,0,0,0
+1@tower,0,0,0,0	monster	Familiar	1005,15,0,0,0
+1@tower,0,0,0,0	monster	Pupa	1008,5,0,0,0
+1@tower,0,0,0,0	monster	Archer Skeleton	1016,15,0,0,0
+1@tower,0,0,0,0	monster	Mandragora	1020,15,0,0,0
+1@tower,0,0,0,0	monster	Orc Warrior	1023,5,0,0,0
+1@tower,0,0,0,0	monster	Munak	1026,10,0,0,0
+1@tower,0,0,0,0	monster	Soldier Skeleton	1028,5,0,0,0
+1@tower,0,0,0,0	monster	Poporing	1031,5,0,0,0
+1@tower,0,0,0,0	monster	Golem	1040,15,0,0,0
+1@tower,0,0,0,0	monster	Obeaune	1044,10,0,0,0
+1@tower,0,0,0,0	monster	Peco Peco Egg	1047,5,0,0,0
+1@tower,0,0,0,0	monster	Thief Bug Egg	1048,10,0,0,0
+1@tower,0,0,0,0	monster	Thief Bug	1051,15,0,0,0
+1@tower,0,0,0,0	monster	Rocker	1052,5,0,0,0
+1@tower,0,0,0,0	monster	Thief Bug Female	1053,15,0,0,0
+1@tower,0,0,0,0	monster	Thief Bug Male	1054,15,0,0,0
+1@tower,0,0,0,0	monster	Mistress	1059,1,3600000,600000,1
+1@tower,0,0,0,0	monster	Megalodon	1064,15,0,0,0
+1@tower,0,0,0,0	monster	Strouf	1065,15,0,0,0
+1@tower,0,0,0,0	monster	Hydra	1068,20,0,0,0
+1@tower,0,0,0,0	monster	Swordfish	1069,25,0,0,0
+1@tower,0,0,0,0	monster	Pirate Skeleton	1071,55,0,0,0
+1@tower,0,0,0,0	monster	Skeleton	1076,5,0,0,0
+1@tower,0,0,0,0	monster	Golden Thief Bug	1086,1,3600000,600000,1
+1@tower,0,0,0,0	monster	Vocal	1088,1,3600000,600000,1
+1@tower,0,0,0,0	monster	Mastering	1090,1,3600000,600000,1
+1@tower,0,0,0,0	monster	Vagabond Wolf	1092,1,3600000,600000,1
+1@tower,0,0,0,0	monster	Andre	1095,15,0,0,0
+1@tower,0,0,0,0	monster	Ant Egg	1097,5,0,0,0
+1@tower,0,0,0,0	monster	Argiope	1099,15,0,0,0
+1@tower,0,0,0,0	monster	Argos	1100,5,0,0,0
+1@tower,0,0,0,0	monster	Baphomet Jr.	1101,10,0,0,0
+1@tower,0,0,0,0	monster	Deniro	1105,15,0,0,0
+1@tower,0,0,0,0	monster	Desert Wolf	1106,20,0,0,0
+1@tower,0,0,0,0	monster	Desert Wolf Baby	1107,10,0,0,0
+1@tower,0,0,0,0	monster	Deviace	1108,15,0,0,0
+1@tower,0,0,0,0	monster	Drainliar	1111,15,0,0,0
+1@tower,0,0,0,0	monster	Drake	1112,1,3600000,600000,1
+1@tower,0,0,0,0	monster	Drops	1113,5,0,0,0
+1@tower,0,0,0,0	monster	Flora	1118,15,0,0,0
+1@tower,0,0,0,0	monster	Jakk	1130,10,0,0,0
+1@tower,0,0,0,0	monster	Joker	1131,15,0,0,0
+1@tower,0,0,0,0	monster	Mantis	1139,5,0,0,0
+1@tower,0,0,0,0	monster	Marse	1144,10,0,0,0
+1@tower,0,0,0,0	monster	Maya	1147,1,3600000,600000,1
+1@tower,0,0,0,0	monster	Moonlight Flower	1150,1,3600000,600000,1
+1@tower,0,0,0,0	monster	Orc Skeleton	1152,5,0,0,0
+1@tower,0,0,0,0	monster	Phen	1158,15,0,0,0
+1@tower,0,0,0,0	monster	Phreeoni	1159,1,3600000,600000,1
+1@tower,0,0,0,0	monster	Piere	1160,15,0,0,0
+1@tower,0,0,0,0	monster	Rafflesia	1162,30,0,0,0
+1@tower,0,0,0,0	monster	Skeleton Worker	1169,5,0,0,0
+1@tower,0,0,0,0	monster	Tarou	1175,15,0,0,0
+1@tower,0,0,0,0	monster	Nine Tail	1180,15,0,0,0
+1@tower,0,0,0,0	monster	Bongun	1188,15,0,0,0
+1@tower,0,0,0,0	monster	Orc Archer	1189,20,0,0,0
+1@tower,0,0,0,0	monster	Punk	1199,25,0,0,0
+1@tower,0,0,0,0	monster	Cramp	1209,25,0,0,0
+1@tower,0,0,0,0	monster	High Orc	1213,15,0,0,0
+1@tower,0,0,0,0	monster	Penomena	1216,15,0,0,0
+1@tower,0,0,0,0	monster	Marin	1242,5,0,0,0
+1@tower,0,0,0,0	monster	Cruiser	1248,15,0,0,0
+1@tower,0,0,0,0	monster	Gargoyle	1253,10,0,0,0
+1@tower,0,0,0,0	monster	Merman	1264,10,0,0,0
+1@tower,0,0,0,0	monster	Carat	1267,15,0,0,0
+1@tower,0,0,0,0	monster	Orc Lady	1273,10,0,0,0
+1@tower,0,0,0,0	monster	Giant Hornet	1303,25,0,0,0
+1@tower,0,0,0,0	monster	Cat o' Nine Tails	1307,15,0,0,0
+1@tower,0,0,0,0	monster	Demon Pungus	1378,25,0,0,0
+1@tower,0,0,0,0	monster	Explosion	1383,15,0,0,0
+1@tower,0,0,0,0	monster	Antique Firelock	1403,15,0,0,0
+1@tower,0,0,0,0	monster	Wild Ginseng	1413,15,0,0,0
+1@tower,0,0,0,0	monster	Raydric Archer	1453,10,0,0,0
+1@tower,0,0,0,0	monster	Dryad	1493,15,0,0,0
+1@tower,0,0,0,0	monster	Parasite	1500,15,0,0,0
+1@tower,0,0,0,0	monster	Hyegun	1512,15,0,0,0
+1@tower,0,0,0,0	monster	Metaling	1613,15,0,0,0
+1@tower,0,0,0,0	monster	Obsidian	1615,15,0,0,0
+1@tower,0,0,0,0	monster	Anopheles	1627,15,0,0,0
+1@tower,0,0,0,0	monster	Hill Wind	1629,5,0,0,0
+1@tower,0,0,0,0	monster	Orc Baby	1686,5,0,0,0
+1@tower,0,0,0,0	monster	Plasma	1693,10,0,0,0
+1@tower,0,0,0,0	monster	Plasma	1694,5,0,0,0
+1@tower,0,0,0,0	monster	Plasma	1695,5,0,0,0
+1@tower,0,0,0,0	monster	Plasma	1696,10,0,0,0
+1@tower,0,0,0,0	monster	Plasma	1697,5,0,0,0
+1@tower,0,0,0,0	monster	Dragon Egg	1721,5,0,0,0
+1@tower,0,0,0,0	monster	Muscipular	1780,15,0,0,0
+1@tower,0,0,0,0	monster	Drosera	1781,15,0,0,0
+1@tower,0,0,0,0	monster	Stapo	1784,10,0,0,0
+
+//==================================================
+// Endless - Mine 2@tower F2
+//==================================================
+2@tower,0,0,0,0	monster	Scorpion	1001,5,0,0,0
+2@tower,0,0,0,0	monster	Snake	1025,5,0,0,0
+2@tower,0,0,0,0	monster	Isis	1029,15,0,0,0
+2@tower,0,0,0,0	monster	Anacondaq	1030,5,0,0,0
+2@tower,0,0,0,0	monster	Verit	1032,15,0,0,0
+2@tower,0,0,0,0	monster	Elder Willow	1033,5,0,0,0
+2@tower,0,0,0,0	monster	Side Winder	1037,40,0,0,0
+2@tower,0,0,0,0	monster	Osiris	1038,1,3600000,600000,1
+2@tower,0,0,0,0	monster	Bigfoot	1060,5,0,0,0
+2@tower,0,0,0,0	monster	Kukre	1070,10,0,0,0
+2@tower,0,0,0,0	monster	Anubis	1098,10,0,0,0
+2@tower,0,0,0,0	monster	Argiope	1099,10,0,0,0
+2@tower,0,0,0,0	monster	Baphomet Jr.	1101,20,0,0,0
+2@tower,0,0,0,0	monster	Desert Wolf Baby	1107,10,0,0,0
+2@tower,0,0,0,0	monster	Goblin	1122,20,0,0,0
+2@tower,0,0,0,0	monster	Goblin	1123,10,0,0,0
+2@tower,0,0,0,0	monster	Goblin	1124,10,0,0,0
+2@tower,0,0,0,0	monster	Goblin	1125,10,0,0,0
+2@tower,0,0,0,0	monster	Goblin	1126,10,0,0,0
+2@tower,0,0,0,0	monster	Hode	1127,5,0,0,0
+2@tower,0,0,0,0	monster	Kobold	1133,15,0,0,0
+2@tower,0,0,0,0	monster	Kobold	1134,10,0,0,0
+2@tower,0,0,0,0	monster	Kobold	1135,5,0,0,0
+2@tower,0,0,0,0	monster	Marduk	1140,10,0,0,0
+2@tower,0,0,0,0	monster	Matyr	1146,10,0,0,0
+2@tower,0,0,0,0	monster	Medusa	1148,10,0,0,0
+2@tower,0,0,0,0	monster	Petite	1155,10,0,0,0
+2@tower,0,0,0,0	monster	Petite	1156,10,0,0,0
+2@tower,0,0,0,0	monster	Pharaoh	1157,1,3600000,600000,1
+2@tower,0,0,0,0	monster	Sandman	1165,5,0,0,0
+2@tower,0,0,0,0	monster	Savage Babe	1167,10,0,0,0
+2@tower,0,0,0,0	monster	Whisper	1179,20,0,0,0
+2@tower,0,0,0,0	monster	Giant Whisper	1186,10,0,0,0
+2@tower,0,0,0,0	monster	Alarm	1193,30,0,0,0
+2@tower,0,0,0,0	monster	Arclouse	1194,30,0,0,0
+2@tower,0,0,0,0	monster	Rideword	1195,25,0,0,0
+2@tower,0,0,0,0	monster	Anolian	1206,30,0,0,0
+2@tower,0,0,0,0	monster	Sting	1207,10,0,0,0
+2@tower,0,0,0,0	monster	Iron Fist	1212,15,0,0,0
+2@tower,0,0,0,0	monster	Sasquatch	1243,5,0,0,0
+2@tower,0,0,0,0	monster	Neraid	1255,15,0,0,0
+2@tower,0,0,0,0	monster	Pest	1256,15,0,0,0
+2@tower,0,0,0,0	monster	Goblin Archer	1258,20,0,0,0
+2@tower,0,0,0,0	monster	Dark Frame	1260,10,0,0,0
+2@tower,0,0,0,0	monster	Clock	1269,10,0,0,0
+2@tower,0,0,0,0	monster	Clock Tower Manager	1270,10,0,0,0
+2@tower,0,0,0,0	monster	Alligator	1271,10,0,0,0
+2@tower,0,0,0,0	monster	Kobold Archer	1282,15,0,0,0
+2@tower,0,0,0,0	monster	Kobold Leader	1296,1,0,0,0
+2@tower,0,0,0,0	monster	Ancient Mummy	1297,25,0,0,0
+2@tower,0,0,0,0	monster	Goblin Leader	1299,1,0,0,0
+2@tower,0,0,0,0	monster	Ancient Worm	1305,10,0,0,0
+2@tower,0,0,0,0	monster	Leib Olmai	1306,7,0,0,0
+2@tower,0,0,0,0	monster	Turtle General	1312,1,3600000,600000,1
+2@tower,0,0,0,0	monster	Permeter	1314,20,0,0,0
+2@tower,0,0,0,0	monster	Solider	1316,10,0,0,0
+2@tower,0,0,0,0	monster	Heater	1318,10,0,0,0
+2@tower,0,0,0,0	monster	Freezer	1319,10,0,0,0
+2@tower,0,0,0,0	monster	The Paper	1375,10,0,0,0
+2@tower,0,0,0,0	monster	Grizzly	1381,20,0,0,0
+2@tower,0,0,0,0	monster	Deleter	1384,20,0,0,0
+2@tower,0,0,0,0	monster	Deleter	1385,10,0,0,0
+2@tower,0,0,0,0	monster	Sleeper	1386,20,0,0,0
+2@tower,0,0,0,0	monster	Gig	1387,20,0,0,0
+2@tower,0,0,0,0	monster	Karakasa	1400,5,0,0,0
+2@tower,0,0,0,0	monster	Shinobi	1401,10,0,0,0
+2@tower,0,0,0,0	monster	Antique Firelock	1403,5,0,0,0
+2@tower,0,0,0,0	monster	Miyabi Ningyo	1404,10,0,0,0
+2@tower,0,0,0,0	monster	Tengu	1405,10,0,0,0
+2@tower,0,0,0,0	monster	Evil Cloud Hermit	1412,10,0,0,0
+2@tower,0,0,0,0	monster	Wicked Nymph	1416,40,0,0,0
+2@tower,0,0,0,0	monster	Zipper Bear	1417,5,0,0,0
+2@tower,0,0,0,0	monster	Incantation Samurai	1492,1,3600000,600000,1
+2@tower,0,0,0,0	monster	Stone Shooter	1495,10,0,0,0
+2@tower,0,0,0,0	monster	Wooden Golem	1497,10,0,0,0
+2@tower,0,0,0,0	monster	Gibbet	1503,10,0,0,0
+2@tower,0,0,0,0	monster	Quve	1508,5,0,0,0
+2@tower,0,0,0,0	monster	Lude	1509,5,0,0,0
+2@tower,0,0,0,0	monster	Hylozoist	1510,10,0,0,0
+2@tower,0,0,0,0	monster	Amon Ra	1511,1,3600000,600000,1
+2@tower,0,0,0,0	monster	Civil Servant	1513,10,0,0,0
+2@tower,0,0,0,0	monster	Dancing Dragon	1514,10,0,0,0
+2@tower,0,0,0,0	monster	Garm Baby	1515,20,0,0,0
+2@tower,0,0,0,0	monster	Increase Soil	1516,10,0,0,0
+2@tower,0,0,0,0	monster	Li Me Mang Ryang	1517,5,0,0,0
+2@tower,0,0,0,0	monster	Live Peach Tree	1550,10,0,0,0
+2@tower,0,0,0,0	monster	Kraben	1587,50,0,0,0
+2@tower,0,0,0,0	monster	Bacsojin	1630,1,3600000,600000,1
+2@tower,0,0,0,0	monster	Beholder	1633,20,0,0,0
+2@tower,0,0,0,0	monster	Orc Baby	1686,1,0,0,0
+2@tower,0,0,0,0	monster	Green Iguana	1687,10,0,0,0
+2@tower,0,0,0,0	monster	Deathword	1698,25,0,0,0
+2@tower,0,0,0,0	monster	Ancient Mimic	1699,10,0,0,0
+2@tower,0,0,0,0	monster	Seeker	1774,20,0,0,0
+2@tower,0,0,0,0	monster	Flame Skull	1869,20,0,0,0
+
+//==================================================
+// Endless - Mine 3@tower F3
+//==================================================
+3@tower,0,0,0,0	monster	Zombie	1015,5,0,0,0
+3@tower,0,0,0,0	monster	Isis	1029,15,0,0,0
+3@tower,0,0,0,0	monster	Poporing	1031,5,0,0,0
+3@tower,0,0,0,0	monster	Side Winder	1037,15,0,0,0
+3@tower,0,0,0,0	monster	Baphomet	1039,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Golem	1040,5,0,0,0
+3@tower,0,0,0,0	monster	Doppelganger	1046,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Nightmare	1061,5,0,0,0
+3@tower,0,0,0,0	monster	Orc Hero	1087,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Mastering	1090,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Angeling	1096,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Baphomet Jr.	1101,20,0,0,0
+3@tower,0,0,0,0	monster	Deviruchi	1109,10,0,0,0
+3@tower,0,0,0,0	monster	Drops	1113,5,0,0,0
+3@tower,0,0,0,0	monster	Ghostring	1120,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Marionette	1143,10,0,0,0
+3@tower,0,0,0,0	monster	Medusa	1148,25,0,0,0
+3@tower,0,0,0,0	monster	Orc Zombie	1153,5,0,0,0
+3@tower,0,0,0,0	monster	Pasana	1154,10,0,0,0
+3@tower,0,0,0,0	monster	Orc Lord	1190,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Mimic	1191,20,0,0,0
+3@tower,0,0,0,0	monster	Skeleton Prisoner	1196,5,0,0,0
+3@tower,0,0,0,0	monster	Zombie Prisoner	1197,15,0,0,0
+3@tower,0,0,0,0	monster	Zherlthsh	1200,5,0,0,0
+3@tower,0,0,0,0	monster	Rybio	1201,10,0,0,0
+3@tower,0,0,0,0	monster	Phendark	1202,20,0,0,0
+3@tower,0,0,0,0	monster	Wander Man	1208,35,0,0,0
+3@tower,0,0,0,0	monster	Marin	1242,5,0,0,0
+3@tower,0,0,0,0	monster	Myst Case	1249,10,0,0,0
+3@tower,0,0,0,0	monster	Chepet	1250,10,0,0,0
+3@tower,0,0,0,0	monster	Gargoyle	1253,10,0,0,0
+3@tower,0,0,0,0	monster	Injustice	1257,15,0,0,0
+3@tower,0,0,0,0	monster	Mutant Dragon	1262,10,0,0,0
+3@tower,0,0,0,0	monster	Dark Lord	1272,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Alice	1275,5,0,0,0
+3@tower,0,0,0,0	monster	Stalactic Golem	1278,18,0,0,0
+3@tower,0,0,0,0	monster	Mini Demon	1292,20,0,0,0
+3@tower,0,0,0,0	monster	Creamy Fear	1293,2,0,0,0
+3@tower,0,0,0,0	monster	Killer Mantis	1294,2,0,0,0
+3@tower,0,0,0,0	monster	Zombie Master	1298,10,0,0,0
+3@tower,0,0,0,0	monster	Caterpillar	1300,2,0,0,0
+3@tower,0,0,0,0	monster	Dark Illusion	1302,10,0,0,0
+3@tower,0,0,0,0	monster	Giant Hornet	1303,2,0,0,0
+3@tower,0,0,0,0	monster	Ancient Worm	1305,2,0,0,0
+3@tower,0,0,0,0	monster	Mobster	1313,10,0,0,0
+3@tower,0,0,0,0	monster	Permeter	1314,10,0,0,0
+3@tower,0,0,0,0	monster	Assaulter	1315,25,0,0,0
+3@tower,0,0,0,0	monster	Freezer	1319,10,0,0,0
+3@tower,0,0,0,0	monster	Lava Golem	1366,10,0,0,0
+3@tower,0,0,0,0	monster	Grand Peco	1369,10,0,0,0
+3@tower,0,0,0,0	monster	Succubus	1370,30,0,0,0
+3@tower,0,0,0,0	monster	Fake Angel	1371,10,0,0,0
+3@tower,0,0,0,0	monster	Incubus	1374,40,0,0,0
+3@tower,0,0,0,0	monster	Harpy	1376,20,0,0,0
+3@tower,0,0,0,0	monster	Nightmare Terror	1379,20,0,0,0
+3@tower,0,0,0,0	monster	Diabolic	1382,20,0,0,0
+3@tower,0,0,0,0	monster	Deleter	1384,5,0,0,0
+3@tower,0,0,0,0	monster	Deleter	1385,5,0,0,0
+3@tower,0,0,0,0	monster	Archangeling	1388,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Shinobi	1401,30,0,0,0
+3@tower,0,0,0,0	monster	Miyabi Ningyo	1404,10,0,0,0
+3@tower,0,0,0,0	monster	Bloody Butterfly	1408,10,0,0,0
+3@tower,0,0,0,0	monster	Live Peach Tree	1410,10,0,0,0
+3@tower,0,0,0,0	monster	Evil Snake Lord	1418,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Wooden Golem	1497,5,0,0,0
+3@tower,0,0,0,0	monster	Loli Ruri	1505,20,0,0,0
+3@tower,0,0,0,0	monster	Garm Baby	1515,10,0,0,0
+3@tower,0,0,0,0	monster	Deviling	1582,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Metaling	1613,25,0,0,0
+3@tower,0,0,0,0	monster	Ungoliant	1618,30,0,0,0
+3@tower,0,0,0,0	monster	Hill Wind	1629,5,0,0,0
+3@tower,0,0,0,0	monster	Chung E	1631,10,0,0,0
+3@tower,0,0,0,0	monster	Magaleta	1637,10,0,0,0
+3@tower,0,0,0,0	monster	Ygnizem	1652,10,0,0,0
+3@tower,0,0,0,0	monster	Whikebain	1653,10,0,0,0
+3@tower,0,0,0,0	monster	Armaia	1654,10,0,0,0
+3@tower,0,0,0,0	monster	Erend	1655,20,0,0,0
+3@tower,0,0,0,0	monster	Kavac	1656,10,0,0,0
+3@tower,0,0,0,0	monster	Rawrel	1657,10,0,0,0
+3@tower,0,0,0,0	monster	Ygnizem	1658,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Archdam	1668,6,0,0,0
+3@tower,0,0,0,0	monster	Dimik	1670,6,0,0,0
+3@tower,0,0,0,0	monster	Dimik	1671,6,0,0,0
+3@tower,0,0,0,0	monster	Dimik	1672,6,0,0,0
+3@tower,0,0,0,0	monster	Dimik	1673,6,0,0,0
+3@tower,0,0,0,0	monster	Venatu	1676,6,0,0,0
+3@tower,0,0,0,0	monster	Venatu	1677,6,0,0,0
+3@tower,0,0,0,0	monster	Venatu	1678,6,0,0,0
+3@tower,0,0,0,0	monster	Venatu	1679,6,0,0,0
+3@tower,0,0,0,0	monster	Hill Wind	1680,5,0,0,0
+3@tower,0,0,0,0	monster	Orc Baby	1686,20,0,0,0
+3@tower,0,0,0,0	monster	Ancient Mimic	1699,30,0,0,0
+3@tower,0,0,0,0	monster	Observation	1700,20,0,0,0
+3@tower,0,0,0,0	monster	Shelter	1701,10,0,0,0
+3@tower,0,0,0,0	monster	Retribution	1702,10,0,0,0
+3@tower,0,0,0,0	monster	Solace	1703,10,0,0,0
+3@tower,0,0,0,0	monster	Acidus	1713,10,0,0,0
+3@tower,0,0,0,0	monster	Acidus	1716,10,0,0,0
+3@tower,0,0,0,0	monster	Aliot	1736,20,0,0,0
+3@tower,0,0,0,0	monster	Aliza	1737,10,0,0,0
+3@tower,0,0,0,0	monster	Agav	1769,10,0,0,0
+3@tower,0,0,0,0	monster	Echio	1770,10,0,0,0
+3@tower,0,0,0,0	monster	Vanberk	1771,5,0,0,0
+3@tower,0,0,0,0	monster	Isilla	1772,5,0,0,0
+3@tower,0,0,0,0	monster	Snowier	1775,10,0,0,0
+3@tower,0,0,0,0	monster	Ice Titan	1777,25,0,0,0
+3@tower,0,0,0,0	monster	Gazeti	1778,10,0,0,0
+3@tower,0,0,0,0	monster	Galion	1783,20,0,0,0
+3@tower,0,0,0,0	monster	Atroce	1785,1,3600000,600000,1
+3@tower,0,0,0,0	monster	Ragged Zombie	1865,20,0,0,0
+
+//==================================================
+// Endless - Mine 4@tower F4
+//==================================================
+4@tower,0,0,0,0	monster	Chonchon	1011,5,0,0,0
+4@tower,0,0,0,0	monster	Hunter Fly	1035,30,0,0,0
+4@tower,0,0,0,0	monster	Steel Chonchon	1042,5,0,0,0
+4@tower,0,0,0,0	monster	Nightmare	1061,10,0,0,0
+4@tower,0,0,0,0	monster	Dragon Fly	1091,5,0,0,0
+4@tower,0,0,0,0	monster	Anubis	1098,15,0,0,0
+4@tower,0,0,0,0	monster	Evil Druid	1117,10,0,0,0
+4@tower,0,0,0,0	monster	Khalitzburg	1132,10,0,0,0
+4@tower,0,0,0,0	monster	Marduk	1140,10,0,0,0
+4@tower,0,0,0,0	monster	Petite	1155,5,0,0,0
+4@tower,0,0,0,0	monster	Raydric	1163,20,0,0,0
+4@tower,0,0,0,0	monster	Wraith	1192,10,0,0,0
+4@tower,0,0,0,0	monster	Mysteltainn	1203,20,0,0,0
+4@tower,0,0,0,0	monster	Tirfing	1204,20,0,0,0
+4@tower,0,0,0,0	monster	Executioner	1205,20,0,0,0
+4@tower,0,0,0,0	monster	Wander Man	1208,20,0,0,0
+4@tower,0,0,0,0	monster	Abysmal Knight	1219,55,0,0,0
+4@tower,0,0,0,0	monster	Injustice	1257,10,0,0,0
+4@tower,0,0,0,0	monster	Gryphon	1259,20,0,0,0
+4@tower,0,0,0,0	monster	Wind Ghost	1263,30,0,0,0
+4@tower,0,0,0,0	monster	Bloody Knight	1268,40,0,0,0
+4@tower,0,0,0,0	monster	Chimera	1283,20,0,0,0
+4@tower,0,0,0,0	monster	Wraith Dead	1291,20,0,0,0
+4@tower,0,0,0,0	monster	Owl Baron	1295,10,0,0,0
+4@tower,0,0,0,0	monster	Ancient Mummy	1297,10,0,0,0
+4@tower,0,0,0,0	monster	Dark Illusion	1302,30,0,0,0
+4@tower,0,0,0,0	monster	Gajomart	1309,10,0,0,0
+4@tower,0,0,0,0	monster	Majoruros	1310,10,0,0,0
+4@tower,0,0,0,0	monster	Owl Duke	1320,10,0,0,0
+4@tower,0,0,0,0	monster	Lava Golem	1366,15,0,0,0
+4@tower,0,0,0,0	monster	Succubus	1370,10,0,0,0
+4@tower,0,0,0,0	monster	Fake Angel	1371,20,0,0,0
+4@tower,0,0,0,0	monster	Incubus	1374,20,0,0,0
+4@tower,0,0,0,0	monster	Elder	1377,20,0,0,0
+4@tower,0,0,0,0	monster	Nightmare Terror	1379,20,0,0,0
+4@tower,0,0,0,0	monster	Deleter	1385,5,0,0,0
+4@tower,0,0,0,0	monster	Dullahan	1504,10,0,0,0
+4@tower,0,0,0,0	monster	Bloody Murderer	1507,10,0,0,0
+4@tower,0,0,0,0	monster	Seyren	1634,34,0,0,0
+4@tower,0,0,0,0	monster	Eremes	1635,4,0,0,0
+4@tower,0,0,0,0	monster	Harword	1636,4,0,0,0
+4@tower,0,0,0,0	monster	Magaleta	1637,4,0,0,0
+4@tower,0,0,0,0	monster	Katrinn	1639,34,0,0,0
+4@tower,0,0,0,0	monster	Kavac	1656,60,0,0,0
+4@tower,0,0,0,0	monster	Rawrel	1657,20,0,0,0
+4@tower,0,0,0,0	monster	Retribution	1702,20,0,0,0
+4@tower,0,0,0,0	monster	Solace	1703,20,0,0,0
+4@tower,0,0,0,0	monster	Thanatos Odium	1704,6,0,0,0
+4@tower,0,0,0,0	monster	Thanatos Despero	1705,6,0,0,0
+4@tower,0,0,0,0	monster	Thanatos Maero	1706,6,0,0,0
+4@tower,0,0,0,0	monster	Thanatos Dolor	1707,6,0,0,0
+4@tower,0,0,0,0	monster	Ferus	1714,10,0,0,0
+4@tower,0,0,0,0	monster	Ferus	1717,10,0,0,0
+4@tower,0,0,0,0	monster	Hydro	1720,20,0,0,0
+4@tower,0,0,0,0	monster	Valkyrie Randgris	1751,1,3600000,600000,1
+4@tower,0,0,0,0	monster	Skogul	1752,10,0,0,0
+4@tower,0,0,0,0	monster	Skeggiold	1754,20,0,0,0
+4@tower,0,0,0,0	monster	Skeggiold	1755,20,0,0,0
+4@tower,0,0,0,0	monster	Valkyrie	1765,10,0,0,0
+4@tower,0,0,0,0	monster	Agav	1769,10,0,0,0
+4@tower,0,0,0,0	monster	Sword Guardian	1829,35,0,0,0
+4@tower,0,0,0,0	monster	Bow Guardian	1830,35,0,0,0
+4@tower,0,0,0,0	monster	Salamander	1831,15,0,0,0
+4@tower,0,0,0,0	monster	Ifrit	1832,1,3600000,600000,1
+4@tower,0,0,0,0	monster	Kasa	1833,20,0,0,0
+4@tower,0,0,0,0	monster	Banshee	1867,30,0,0,0
+4@tower,0,0,0,0	monster	Necromancer	1870,30,0,0,0
+4@tower,0,0,0,0	monster	Fallen Bishop	1871,1,3600000,600000,1
+4@tower,0,0,0,0	monster	Beelzebub	1873,1,3600000,600000,1
+4@tower,0,0,0,0	monster	Incarnation of Morroc	1918,10,0,0,0
+4@tower,0,0,0,0	monster	Incarnation of Morroc	1919,10,0,0,0
+4@tower,0,0,0,0	monster	Incarnation of Morroc	1920,10,0,0,0
+4@tower,0,0,0,0	monster	Incarnation of Morroc	1921,10,0,0,0
+
+//==================================================
+// Endless - Mine 5@tower F5
+//==================================================
+5@tower,0,0,0,0	monster	Entweihen Crothen	1957,1,3600000,600000,1
+5@tower,0,0,0,0	monster	Thorny Skeleton	1958,11,0,0,0
+5@tower,0,0,0,0	monster	Thorn of Recovery	1959,4,0,0,0
+5@tower,0,0,0,0	monster	Thorn of Magic	1960,8,0,0,0
+5@tower,0,0,0,0	monster	Thorn of Purification	1961,6,0,0,0
+
+//==================================================
+// Endless - Mine 6@tower F6
+//==================================================
+6@tower,0,0,0,0	monster	Khalitzburg	1132,40,0,0,0
+6@tower,0,0,0,0	monster	Orc Skeleton	1152,100,0,0,0
+6@tower,0,0,0,0	monster	Wind Ghost	1263,60,0,0,0
+6@tower,0,0,0,0	monster	Anopheles	1627,10,0,0,0
+6@tower,155,148,0,0	monster	Naght Sieger	1956,1,3600000,600000,1

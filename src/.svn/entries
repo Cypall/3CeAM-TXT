@@ -1,0 +1,52 @@
+10
+
+dir
+640
+http://3ceam.googlecode.com/svn/trunk/rewrite/src
+http://3ceam.googlecode.com/svn
+
+
+
+2011-07-24T17:05:16.222980Z
+640
+Rytech16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ca0df34e-21c1-4b9e-08a3-f23acb074bb3
+
+plugins
+dir
+
+txt-converter
+dir
+
+common
+dir
+
+login
+dir
+
+char_sql
+dir
+
+char
+dir
+
+map
+dir
+
+tool
+dir
+

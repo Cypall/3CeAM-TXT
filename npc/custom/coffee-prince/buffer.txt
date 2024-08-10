@@ -1,0 +1,103 @@
+morocc,163,97,3	script	เติมเลือดและแจก AB	405,{
+if(class != 0) goto L_aspd0;
+if(baselvl < 86) goto L_aspd2;
+if(class != 1) goto L_aspd1;
+if(class != 2) goto L_aspd2;
+
+L_aspd0:
+sc_start SC_STRFood, 1500000,10;
+sc_start SC_AGIFood, 1500000,10;
+sc_start SC_VITFood, 1500000,10;
+sc_start SC_INTFood, 1500000,10;
+sc_start SC_DEXFood, 1500000,10;
+sc_start SC_LUKFood, 1500000,10;
+sc_start SC_BLESSING,1500000,10;
+sc_start SC_INCREASEAGI,1500000,10;
+sc_start 29,1500000,5;
+sc_start 35,1500000,3;
+sc_start 41,1500000,5;
+sc_start SC_ASPDPOTION2,1500000,0;
+specialeffect2 42;
+specialeffect2 37;
+specialeffect2 313;
+specialeffect2 150;
+sc_end SC_Poison;
+sc_end SC_Freeze;
+sc_end SC_Sleep;
+sc_end SC_Stan;
+sc_end SC_Stone;
+sc_end SC_Silence;
+sc_end SC_Blind;
+sc_end SC_Bleeding;
+sc_end SC_Confusion;
+sc_end SC_Curse;
+sc_end SC_Hallucination; 
+percentheal 100,100;
+close;
+
+L_aspd1:
+sc_start SC_STRFood, 1500000,10;
+sc_start SC_AGIFood, 1500000,10;
+sc_start SC_VITFood, 1500000,10;
+sc_start SC_INTFood, 1500000,10;
+sc_start SC_DEXFood, 1500000,10;
+sc_start SC_LUKFood, 1500000,10;
+sc_start SC_BLESSING,1500000,10;
+sc_start SC_INCREASEAGI,1500000,10;
+sc_start 29,1500000,5;
+sc_start 35,1500000,3;
+sc_start 41,1500000,5;
+sc_start SC_ASPDPOTION2,1500000,0;
+specialeffect2 42;
+specialeffect2 37;
+specialeffect2 313;
+specialeffect2 150;
+sc_end SC_Poison;
+sc_end SC_Freeze;
+sc_end SC_Sleep;
+sc_end SC_Stan;
+sc_end SC_Stone;
+sc_end SC_Silence;
+sc_end SC_Blind;
+sc_end SC_Bleeding;
+sc_end SC_Confusion;
+sc_end SC_Curse;
+sc_end SC_Hallucination; 
+percentheal 100,100;
+close;
+
+L_aspd2:
+sc_start SC_STRFood, 1500000,10;
+sc_start SC_AGIFood, 1500000,10;
+sc_start SC_VITFood, 1500000,10;
+sc_start SC_INTFood, 1500000,10;
+sc_start SC_DEXFood, 1500000,10;
+sc_start SC_LUKFood, 1500000,10;
+sc_start SC_BLESSING,1500000,10;
+sc_start SC_INCREASEAGI,1500000,10;
+sc_start 29,1500000,5;
+sc_start 35,1500000,3;
+sc_start 41,1500000,5;
+sc_start SC_ASPDPOTION2,1500000,0;
+specialeffect2 42;
+specialeffect2 37;
+specialeffect2 313;
+specialeffect2 150;
+sc_end SC_Poison;
+sc_end SC_Freeze;
+sc_end SC_Sleep;
+sc_end SC_Stan;
+sc_end SC_Stone;
+sc_end SC_Silence;
+sc_end SC_Blind;
+sc_end SC_Bleeding;
+sc_end SC_Confusion;
+sc_end SC_Curse;
+sc_end SC_Hallucination; 
+percentheal 100,100;
+close;
+
+//OnInit:
+//waitingroom "บัพจร้าอย่าลืมกดนะ",0;
+//end;
+}

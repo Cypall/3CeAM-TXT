@@ -1,0 +1,8 @@
+pvp_y_1-5	mapflag	nobranch
+pvp_y_1-5	mapflag	noicewall
+pvp_y_1-5	mapflag	nomemo
+pvp_y_1-5	mapflag	pvp	off
+
+morocc	mapflag	leaves
+morocc	mapflag	nobranch
+morocc	mapflag	noicewall

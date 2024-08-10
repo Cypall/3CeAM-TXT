@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/640/trunk/rewrite/src/map
+END
+chrif.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/562/trunk/rewrite/src/map/chrif.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/602/trunk/rewrite/src/map/Makefile.in
+END
+path.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/562/trunk/rewrite/src/map/path.h
+END
+quest.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/562/trunk/rewrite/src/map/quest.c
+END
+atcommand.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/608/trunk/rewrite/src/map/atcommand.c
+END
+script.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/634/trunk/rewrite/src/map/script.c
+END
+elemental.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/634/trunk/rewrite/src/map/elemental.c
+END
+quest.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/562/trunk/rewrite/src/map/quest.h
+END
+atcommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/562/trunk/rewrite/src/map/atcommand.h
+END
+script.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/596/trunk/rewrite/src/map/script.h
+END
+elemental.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/562/trunk/rewrite/src/map/elemental.h
+END
+battle.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/trunk/rewrite/src/map/battle.c
+END
+skill.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/640/trunk/rewrite/src/map/skill.c
+END
+unit.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/607/trunk/rewrite/src/map/unit.c
+END
+mapreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/562/trunk/rewrite/src/map/mapreg.h
+END
+battle.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/trunk/rewrite/src/map/battle.h
+END
+searchstore.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/607/trunk/rewrite/src/map/searchstore.c
+END
+skill.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/625/trunk/rewrite/src/map/skill.h
+END
+unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/566/trunk/rewrite/src/map/unit.h
+END
+mercenary.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/591/trunk/rewrite/src/map/mercenary.c
+END
+searchstore.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/603/trunk/rewrite/src/map/searchstore.h
+END
+mercenary.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/562/trunk/rewrite/src/map/mercenary.h
+END
+vending.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/607/trunk/rewrite/src/map/vending.c
+END
+vending.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/602/trunk/rewrite/src/map/vending.h
+END
+storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/591/trunk/rewrite/src/map/storage.c
+END
+storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/562/trunk/rewrite/src/map/storage.h
+END
+buyingstore.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/607/trunk/rewrite/src/map/buyingstore.c
+END
+mapreg_txt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/562/trunk/rewrite/src/map/mapreg_txt.c
+END
+date.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/562/trunk/rewrite/src/map/date.c
+END
+clif.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/636/trunk/rewrite/src/map/clif.c
+END
+mob.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/602/trunk/rewrite/src/map/mob.c
+END
+chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/607/trunk/rewrite/src/map/chat.c
+END
+buyingstore.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/603/trunk/rewrite/src/map/buyingstore.h
+END
+date.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/562/trunk/rewrite/src/map/date.h
+END
+clif.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/602/trunk/rewrite/src/map/clif.h
+END
+mob.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/574/trunk/rewrite/src/map/mob.h
+END
+chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/607/trunk/rewrite/src/map/chat.h
+END
+homunculus.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/591/trunk/rewrite/src/map/homunculus.c
+END
+guild.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/602/trunk/rewrite/src/map/guild.c
+END
+itemdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/636/trunk/rewrite/src/map/itemdb.c
+END
+homunculus.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/562/trunk/rewrite/src/map/homunculus.h
+END
+guild.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/566/trunk/rewrite/src/map/guild.h
+END
+itemdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/633/trunk/rewrite/src/map/itemdb.h
+END
+intif.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/574/trunk/rewrite/src/map/intif.c
+END
+intif.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/562/trunk/rewrite/src/map/intif.h
+END
+npc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/602/trunk/rewrite/src/map/npc.c
+END
+status.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/635/trunk/rewrite/src/map/status.c
+END
+npc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/562/trunk/rewrite/src/map/npc.h
+END
+status.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/635/trunk/rewrite/src/map/status.h
+END
+battleground.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/602/trunk/rewrite/src/map/battleground.c
+END
+battleground.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/562/trunk/rewrite/src/map/battleground.h
+END
+party.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/602/trunk/rewrite/src/map/party.c
+END
+trade.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/607/trunk/rewrite/src/map/trade.c
+END
+pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/633/trunk/rewrite/src/map/pc.c
+END
+instance.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/566/trunk/rewrite/src/map/instance.c
+END
+trade.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/562/trunk/rewrite/src/map/trade.h
+END
+party.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/566/trunk/rewrite/src/map/party.h
+END
+pc.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/633/trunk/rewrite/src/map/pc.h
+END
+instance.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/562/trunk/rewrite/src/map/instance.h
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/602/trunk/rewrite/src/map/map.c
+END
+npc_chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/562/trunk/rewrite/src/map/npc_chat.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/636/trunk/rewrite/src/map/log.c
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/608/trunk/rewrite/src/map/map.h
+END
+mail.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/607/trunk/rewrite/src/map/mail.c
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/602/trunk/rewrite/src/map/log.h
+END
+mail.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/562/trunk/rewrite/src/map/mail.h
+END
+pet.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/602/trunk/rewrite/src/map/pet.c
+END
+mapreg_sql.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/562/trunk/rewrite/src/map/mapreg_sql.c
+END
+chrif.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/591/trunk/rewrite/src/map/chrif.c
+END
+path.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/562/trunk/rewrite/src/map/path.c
+END
+pet.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/562/trunk/rewrite/src/map/pet.h
+END
